@@ -21,7 +21,7 @@
 
 ۱. ابتدا مخزن را از گیت‌هاب کلون (دانلود) کنید:
    ```bash
-   git clone [https://github.com/](https://github.com/)[mojtabakalami]/student-unit-selector.git
+   git clone https://github.com/https://github.com/mojtabakalami/student-unit-selector.git
    ```
 
 ۲. وارد پوشه پروژه شوید:
